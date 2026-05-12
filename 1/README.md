@@ -1,1 +1,1 @@
-Static files for the odmbook.com website.
+Static files for the webodmbook.com website.
